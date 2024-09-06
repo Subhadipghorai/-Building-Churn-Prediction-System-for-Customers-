@@ -1,0 +1,7 @@
+echo "# -Building-Churn-Prediction-System-for-Customers-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Subhadipghorai/-Building-Churn-Prediction-System-for-Customers-.git
+git push -u origin main
